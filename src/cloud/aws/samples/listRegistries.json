@@ -1,0 +1,8 @@
+{
+  "Registries": [
+    {
+      "RegistryName": "aws.events",
+      "Tags": {}
+    }
+  ]
+}

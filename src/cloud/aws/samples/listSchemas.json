@@ -1,0 +1,605 @@
+{
+  "NextToken": "ASQAAABiMmFmZjcyYi04YmYzLTQxODUtOWJhNS1jMDllMWM5ODA5MTK4AAAAAQIDAHiogcVeXHfM0FvdvZpu1Jfv7xQtB4ueKDTgCxA761K56gGGGinovsSdGXuN11-HgM2uAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMyCybXPY6DGxOfblfAgEQgDttGEznaQIguQ0HkOo7IMxcnOrn9Mib1ba-4cMZ7hTLAqiIiHyRLByVCFCYDVVYB9qb_xichiqIzjMAVQwAAADvph51BXChBB0HDB5VAQAAGUk7FCm1fMLmoI8u0cFrwr8abU8Dqggz_zi8k3rUzdbxeRaSm7roBIIiJ_ZC48U3iiYVxPfQVCTnPZ9xxGRv7Y7BrXCTLk8F7IfObfNVBiwUrGIrEa7qqIuHkcMluj0oGn_uXR40S_oNNVa7rEuUoVQMjqQdxXZUIhWdXK434kNZIEV6s-z2DLy0giwh-WuPEsy6NDC5jpbYobeikkk_NmvXjWGaeArx78NmoEIJ0txEVVqe5QHrcLTOxbPVtxJ28pXnfVh3YyZUuoEqaCztP7ydi7T1Z53tT3hNndEdNzSXeTyuhyTYHi65YF2vSlUPFLc9A8pJJ7P7yOtqWQ3jLZa6vqSup48pll7vN3m5Kf-uwSwx3iH10nHSMtMncMDDKbsy85DQTPPEkmG6JE17Z3GezGG6GVzkotmr2Emmmw2Xn0GeTtJJCdz5y7KzjoMqmTt9HzIgAAAASZZoDWQ6di-3zAHlRtBGRXWWWt5N0pVkc2b3Kt3EPjQ",
+  "Schemas": [
+    {
+      "LastModified": "2020-10-22T16:03:09.000Z",
+      "SchemaName": "aws.a4b@RoomStateChange",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2021-06-03T16:05:35.000Z",
+      "SchemaName": "aws.acm@ACMCertificateApproachingExpiration",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2021-06-11T16:05:42.000Z",
+      "SchemaName": "aws.applicationcostprofiler@AWSAPICallViaCloudTrail",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2021-06-11T16:05:50.000Z",
+      "SchemaName": "aws.applicationcostprofiler@ApplicationCostProfilerIngestionDataAccessFailure",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2021-06-11T16:05:42.000Z",
+      "SchemaName": "aws.applicationcostprofiler@ApplicationCostProfilerIngestionDataValidationFailure",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2021-06-11T16:05:50.000Z",
+      "SchemaName": "aws.applicationcostprofiler@ApplicationCostProfilerReportDeliveryFailure",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2021-06-11T16:05:42.000Z",
+      "SchemaName": "aws.applicationcostprofiler@ApplicationCostProfilerReportGenerated",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2020-01-16T19:44:16.000Z",
+      "SchemaName": "aws.athena@AthenaQueryStateChange",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:53.000Z",
+      "SchemaName": "aws.autoscaling@AWSAPICallViaCloudTrail",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2021-04-09T16:07:36.000Z",
+      "SchemaName": "aws.autoscaling@EC2InstanceLaunchLifecycleAction",
+      "Tags": {},
+      "VersionCount": 2
+    },
+    {
+      "LastModified": "2021-04-09T16:07:36.000Z",
+      "SchemaName": "aws.autoscaling@EC2InstanceLaunchSuccessful",
+      "Tags": {},
+      "VersionCount": 2
+    },
+    {
+      "LastModified": "2021-04-09T16:07:36.000Z",
+      "SchemaName": "aws.autoscaling@EC2InstanceLaunchUnsuccessful",
+      "Tags": {},
+      "VersionCount": 2
+    },
+    {
+      "LastModified": "2021-04-09T16:07:36.000Z",
+      "SchemaName": "aws.autoscaling@EC2InstanceTerminateLifecycleAction",
+      "Tags": {},
+      "VersionCount": 2
+    },
+    {
+      "LastModified": "2021-04-09T16:07:36.000Z",
+      "SchemaName": "aws.autoscaling@EC2InstanceTerminateSuccessful",
+      "Tags": {},
+      "VersionCount": 2
+    },
+    {
+      "LastModified": "2021-04-09T16:07:37.000Z",
+      "SchemaName": "aws.autoscaling@EC2InstanceTerminateUnsuccessful",
+      "Tags": {},
+      "VersionCount": 2
+    },
+    {
+      "LastModified": "2019-12-01T00:11:52.000Z",
+      "SchemaName": "aws.batch@AWSAPICallViaCloudTrail",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:44.000Z",
+      "SchemaName": "aws.batch@BatchJobStateChange",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2021-04-08T18:33:37.000Z",
+      "SchemaName": "aws.chime@ChimeVoiceConnectorStreamingStatus",
+      "Tags": {},
+      "VersionCount": 2
+    },
+    {
+      "LastModified": "2021-11-22T17:03:30.000Z",
+      "SchemaName": "aws.cloudformation@CloudFormationHookInvocationProgress",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2021-11-18T17:03:33.000Z",
+      "SchemaName": "aws.cloudshell@AWSAPICallViaCloudTrail",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2022-09-09T04:08:09.000Z",
+      "SchemaName": "aws.cloudwatch@CloudWatchAlarmConfigurationChange",
+      "Tags": {},
+      "VersionCount": 3
+    },
+    {
+      "LastModified": "2022-09-09T04:08:09.000Z",
+      "SchemaName": "aws.cloudwatch@CloudWatchAlarmStateChange",
+      "Tags": {},
+      "VersionCount": 4
+    },
+    {
+      "LastModified": "2019-12-01T00:11:48.000Z",
+      "SchemaName": "aws.codebuild@AWSAPICallViaCloudTrail",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:49.000Z",
+      "SchemaName": "aws.codebuild@AWSServiceEventViaCloudTrail",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:56.000Z",
+      "SchemaName": "aws.codebuild@CodeBuildBuildPhaseChange",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:53.000Z",
+      "SchemaName": "aws.codebuild@CodeBuildBuildStateChange",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2020-01-16T19:44:21.000Z",
+      "SchemaName": "aws.codecommit@AWSAPICallViaCloudTrail",
+      "Tags": {},
+      "VersionCount": 2
+    },
+    {
+      "LastModified": "2019-12-01T00:11:46.000Z",
+      "SchemaName": "aws.codecommit@CodeCommitApprovalRuleTemplateChange",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:52.000Z",
+      "SchemaName": "aws.codecommit@CodeCommitCommentOnCommit",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:50.000Z",
+      "SchemaName": "aws.codecommit@CodeCommitCommentOnPullRequest",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:47.000Z",
+      "SchemaName": "aws.codecommit@CodeCommitPullRequestStateChange",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:53.000Z",
+      "SchemaName": "aws.codecommit@CodeCommitRepositoryStateChange",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:52.000Z",
+      "SchemaName": "aws.codedeploy@CodeDeployDeploymentStateChangeNotification",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:52.000Z",
+      "SchemaName": "aws.codedeploy@CodeDeployInstanceStateChangeNotification",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2022-04-30T04:12:49.000Z",
+      "SchemaName": "aws.codeguruprofiler@CodeGuruProfilerRecommendationStateChange",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:52.000Z",
+      "SchemaName": "aws.codepipeline@CodePipelineActionExecutionStateChange",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:52.000Z",
+      "SchemaName": "aws.codepipeline@CodePipelinePipelineExecutionStateChange",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:52.000Z",
+      "SchemaName": "aws.codepipeline@CodePipelineStageExecutionStateChange",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2021-06-03T16:05:35.000Z",
+      "SchemaName": "aws.connect@CodeConnectContact",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2022-04-30T04:12:50.000Z",
+      "SchemaName": "aws.connect@ContactLensPostCallRulesMatched",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2022-04-30T04:12:50.000Z",
+      "SchemaName": "aws.connect@ContactLensRealtimeRulesMatched",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:52.000Z",
+      "SchemaName": "aws.datasync@DataSyncAgentStateChange",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:44.000Z",
+      "SchemaName": "aws.datasync@DataSyncLocationStateChange",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:51.000Z",
+      "SchemaName": "aws.datasync@DataSyncTaskExecutionStateChange",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:43.000Z",
+      "SchemaName": "aws.datasync@DataSyncTaskStateChange",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2022-04-30T04:12:51.000Z",
+      "SchemaName": "aws.devopsguru@DevOpsGuruInsightClosed",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2022-04-30T04:12:50.000Z",
+      "SchemaName": "aws.devopsguru@DevOpsGuruInsightSeverityUpgraded",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2022-04-30T04:12:51.000Z",
+      "SchemaName": "aws.devopsguru@DevOpsGuruNewAnomalyAssociation",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2022-04-30T04:12:51.000Z",
+      "SchemaName": "aws.devopsguru@DevOpsGuruNewInsightOpen",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2022-04-30T04:12:50.000Z",
+      "SchemaName": "aws.devopsguru@DevOpsGuruNewRecommendationCreated",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:45.000Z",
+      "SchemaName": "aws.dlm@AWSAPICallViaCloudTrail",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:51.000Z",
+      "SchemaName": "aws.dlm@DLMPolicyStateChange",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:45.000Z",
+      "SchemaName": "aws.ec2@AWSAPICallViaCloudTrail",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:45.000Z",
+      "SchemaName": "aws.ec2@EBSMultiVolumeSnapshotsCompletionStatus",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:53.000Z",
+      "SchemaName": "aws.ec2@EBSSnapshotNotification",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:51.000Z",
+      "SchemaName": "aws.ec2@EBSVolumeNotification",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:53.000Z",
+      "SchemaName": "aws.ec2@EC2InstanceStateChangeNotification",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:44.000Z",
+      "SchemaName": "aws.ec2@EC2SpotInstanceInterruptionWarning",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2020-12-16T21:10:46.000Z",
+      "SchemaName": "aws.ec2fleet@EC2FleetError",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2020-12-16T21:10:47.000Z",
+      "SchemaName": "aws.ec2fleet@EC2FleetInformation",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2020-12-16T21:10:47.000Z",
+      "SchemaName": "aws.ec2fleet@EC2FleetInstanceChange",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2020-12-16T21:10:47.000Z",
+      "SchemaName": "aws.ec2fleet@EC2FleetSpotInstanceRequestChange",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2020-12-16T21:10:49.000Z",
+      "SchemaName": "aws.ec2fleet@EC2FleetStateChange",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2020-12-16T21:10:46.000Z",
+      "SchemaName": "aws.ec2spotfleet@EC2SpotFleetError",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2020-12-16T21:10:46.000Z",
+      "SchemaName": "aws.ec2spotfleet@EC2SpotFleetInformation",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2020-12-16T21:10:45.000Z",
+      "SchemaName": "aws.ec2spotfleet@EC2SpotFleetInstanceChange",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2020-12-16T21:10:46.000Z",
+      "SchemaName": "aws.ec2spotfleet@EC2SpotFleetSpotInstanceRequestChange",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2020-12-16T21:10:45.000Z",
+      "SchemaName": "aws.ec2spotfleet@EC2SpotFleetStateChange",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2020-04-22T17:54:25.000Z",
+      "SchemaName": "aws.ecr@AWSAPICallViaCloudTrail",
+      "Tags": {},
+      "VersionCount": 2
+    },
+    {
+      "LastModified": "2019-12-01T00:11:52.000Z",
+      "SchemaName": "aws.ecr@ECRImageAction",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2020-09-25T16:07:37.000Z",
+      "SchemaName": "aws.ecr@ECRImageScan",
+      "Tags": {},
+      "VersionCount": 2
+    },
+    {
+      "LastModified": "2019-12-01T00:11:54.000Z",
+      "SchemaName": "aws.ecs@AWSAPICallViaCloudTrail",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:49.000Z",
+      "SchemaName": "aws.ecs@ECSContainerInstanceStateChange",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:52.000Z",
+      "SchemaName": "aws.ecs@ECSServiceAction",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:52.000Z",
+      "SchemaName": "aws.ecs@ECSTaskStateChange",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:44.000Z",
+      "SchemaName": "aws.elasticloadbalancing@AWSAPICallViaCloudTrail",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:52.000Z",
+      "SchemaName": "aws.emr@EMRAutoScalingPolicyStateChange",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:52.000Z",
+      "SchemaName": "aws.emr@EMRClusterStateChange",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:54.000Z",
+      "SchemaName": "aws.emr@EMRConfigurationError",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:53.000Z",
+      "SchemaName": "aws.emr@EMRInstanceFleetStateChange",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:52.000Z",
+      "SchemaName": "aws.emr@EMRInstanceGroupStateChange",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:44.000Z",
+      "SchemaName": "aws.emr@EMRInstanceGroupStatusNotification",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:53.000Z",
+      "SchemaName": "aws.emr@EMRStepStatusChange",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2020-04-22T17:54:23.000Z",
+      "SchemaName": "aws.events@ScheduledJson",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2022-03-09T17:10:16.000Z",
+      "SchemaName": "aws.fis@FISExperimentStateChange",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:52.000Z",
+      "SchemaName": "aws.gamelift@GameLiftMatchmakingEvent",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2021-06-03T16:05:36.000Z",
+      "SchemaName": "aws.gamelift@GameLiftQueuePlacementEvent",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2021-12-13T17:05:07.000Z",
+      "SchemaName": "aws.geo@LocationGeofenceEvent",
+      "Tags": {},
+      "VersionCount": 2
+    },
+    {
+      "LastModified": "2019-12-01T00:11:53.000Z",
+      "SchemaName": "aws.glue@AWSAPICallViaCloudTrail",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:53.000Z",
+      "SchemaName": "aws.glue@GlueDataCatalogDatabaseStateChange",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:52.000Z",
+      "SchemaName": "aws.glue@GlueDataCatalogTableStateChange",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:53.000Z",
+      "SchemaName": "aws.glue@GlueJobRunStatus",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:48.000Z",
+      "SchemaName": "aws.glue@GlueJobStateChange",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2022-08-30T04:07:28.000Z",
+      "SchemaName": "aws.guardduty@GuardDutyFinding",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:43.000Z",
+      "SchemaName": "aws.health@AWSHealthAbuseEvent",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:52.000Z",
+      "SchemaName": "aws.health@AWSHealthEvent",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:42.000Z",
+      "SchemaName": "aws.iotanalytics@AWSAPICallViaCloudTrail",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2019-12-01T00:11:42.000Z",
+      "SchemaName": "aws.iotanalytics@IoTAnalyticsDataSetLifeCycleNotification",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2020-09-25T16:07:36.000Z",
+      "SchemaName": "aws.ivs@LimitBreach",
+      "Tags": {},
+      "VersionCount": 1
+    },
+    {
+      "LastModified": "2021-06-03T16:05:37.000Z",
+      "SchemaName": "aws.ivs@RecordingStateChange",
+      "Tags": {},
+      "VersionCount": 1
+    }
+  ]
+}

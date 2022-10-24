@@ -1,0 +1,19 @@
+{
+    "version": "0",
+    "id": "f480b317-a12f-5ccc-89ac-2446862c329b",
+    "detail-type": "Schema Version Created",
+    "source": "aws.schemas",
+    "account": "359317520455",
+    "time": "2021-07-24T15:01:29Z",
+    "region": "us-east-1",
+    "resources": [
+        "arn:aws:schemas:us-east-1:359317520455:schema/discovered-schemas/mystore@ReviewCreated"
+    ],
+    "detail": {
+        "SchemaName": "mystore@ReviewCreated",
+        "SchemaType": "OpenApi3",
+        "RegistryName": "discovered-schemas",
+        "CreationDate": "2021-07-24T15:01:19Z",
+        "Version": "5"
+    }
+}
